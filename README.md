@@ -4,38 +4,36 @@ Simple Linux shell written in C.
 
 ## What Does It Do?
 
-Executes built-in commands:
-
-* cd
-* help
-* exit
-* pwd
-* history
-* ! (executes previous command)
-* !n (executes nth previous commands)
-
-Executes external commands by forking child process.
+* Executes built-in commands:
+  * cd
+  * help
+  * exit
+  * pwd
+  * history
+  * ! (previous command)
+  * !n (nth previous command)
+* Executes external commands by forking child process.
 
 ## Built With
 
 * C
 * Linux Ubuntu
 
-## Usage/
+## Usage
 
-Compile shell.c from Linux terminal.
-
-```c
-gcc -o shell shell.c
-```
-
-Execute the program.
+Compile shell.c from Linux terminal
 
 ```c
-./shell
+$ gcc -o shell shell.c
 ```
 
-You are now in the shell. Exit to quit.
+Execute the program
+
+```c
+$ ./shell
+```
+
+You are now in the shell
 
 ```c
 >> help
