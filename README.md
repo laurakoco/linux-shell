@@ -48,5 +48,5 @@ You are now in the shell
 
 ## Acknowledgments
 
-* Boston University MET Master Science Computer Science Program
+* Boston University MET Master of Science Computer Science Program
 * MET CS 575 Operating Systems
