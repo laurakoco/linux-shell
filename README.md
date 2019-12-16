@@ -50,3 +50,4 @@ You are now in the shell
 
 * Boston University MET Master of Science Computer Science Program
 * MET CS 575 Operating Systems
+* [https://brennan.io/2015/01/16/write-a-shell-in-c/](https://brennan.io/2015/01/16/write-a-shell-in-c/)
