@@ -2,7 +2,7 @@
 //  shell.c
 //  Test
 //
-//  Created by Laura Kocubinski on 6/12/18.
+//  Created by Tanmay Tiwari.
 //  Copyright © 2018 Laura. All rights reserved.
 //
 
@@ -41,7 +41,7 @@ int my_help()
     
     printf("\n");
     
-    printf("Laura Kocubinski's Shell, version 1.0.\n");
+    printf("Tanmay Tiwari's Shell, version 1.0.\n");
     printf("These shell commands are defined internally.\n");
     printf("\n");
     
@@ -242,4 +242,3 @@ int main(int argc, char **arg)
     
     return 0;
 }
-
